@@ -1,1 +1,3 @@
+% basename audio-offset youtube-link [duration]
 tsuki-hana 2 https://www.youtube.com/watch?v=1cW5AObIaz0
+tiny-little-adiantum 204.75 https://www.youtube.com/watch?v=rB7XFQgJHBI 23.25
