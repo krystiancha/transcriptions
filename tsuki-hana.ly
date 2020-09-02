@@ -52,9 +52,9 @@ melody = \relative cis' {
   gis8 ~ | \break
   
   gis8 fis r cis fis gis
-  ais8 ais |
+  ais8 ais ( |
   
-  b8 ais fis ais16 gis ~
+  b8 ) ais fis ( ais16 ) gis ~
   gis4 r8 r16 cis, | \break
   
   \mark "Bridge"
@@ -63,7 +63,7 @@ melody = \relative cis' {
   ~ fis16 cis ~ cis cis |
   
   dis8 eis16 fis ~ fis gis
-  ~ gis16 ais b8 ais16 fis
+  ~ gis16 ais ( b8 ) ais16 fis
   ~ fis16 gis ~ gis gis | \break
   
   b4 cis ais8 gis fis
@@ -100,12 +100,12 @@ melody = \relative cis' {
   eis16 fis ~ | \break
   
   fis4 r8 cis ais' ais
-  ais8 ais |
+  ais8 ais ( |
   
-  b8 ais gis cis,
-  eis8 eis eis eis |
+  b8 ) ais gis cis,
+  eis8 eis eis eis ( |
   
-  fis1 | 
+  fis1 ) | 
   r1 |
   r1 |
   r1 |
@@ -117,18 +117,18 @@ melody = \relative cis' {
 words = \lyricmode {
   ichi ni san shi
   
-  do -- ko ka -- ra a -- sa ni na -- ru? shi -- zu -- ka na so -- ra
-  mi -- nai fu -- ri o shi -- ta yu -- bi -- ki -- ri ko -- yu -- bi no sa -- ki
-  wa -- ra -- wa -- re -- ta tsu -- ki na -- ra
-  ki -- e -- te -- yu -- ku nda ki -- no -- u no ho -- ou -- ga -- ku e -- e
+  do -- ko ka -- ra a __ -- sa __ ni __ na __ -- ru? __ shi -- zu -- ka na so -- ra
+  mi -- nai __ fu -- ri o shi -- ta yu -- bi -- ki __ -- ri __ ko -- yu -- bi no sa -- ki
+  wa -- ra -- wa -- re -- ta __ tsu __ -- ki __ na __ -- ra __
+  ki -- e -- te -- yu -- ku __ nda ki -- no -- u no hou __ -- ga -- ku __ e __
   
-  u -- so -- tsu -- ki o -- ku -- byo -- u -- mo -- no min -- na ma -- to -- me -- te bo -- o -- ku na -- ra
+  u -- so -- tsu -- ki o -- ku -- byo -- u -- mo -- no min __ -- na ma -- to -- me __ -- te __ bo __ -- ku na __ -- ra __
   sa -- i -- te -- i -- ta no wa yu -- me no na -- ka da
   
-  tsuki no ka -- ge ni ka -- ku -- shi -- te -- ta ho -- n -- to -- u wa ne na -- i -- te -- ta
-  na -- mi -- da wa mou na -- ga -- re -- nai ka -- re -- te -- shi -- ma -- a -- tta no?
-  na -- ni -- mo -- ka -- mo yu -- ru -- se -- ta -- ra na -- ga -- re -- ru ka mo shi -- re -- na -- i ke -- do
-  ma -- mo -- ri -- ta -- i -- i mo -- no ba -- ka -- ri da na -- a
+  tsuki no ka -- ge ni ka -- ku __ -- shi __ -- te __ -- ta __ ho -- n -- to -- u wa ne na -- i __ -- te __ -- ta __
+  na -- mi -- da wa mou na -- ga __ -- re __ -- nai __ ka -- re -- te -- shi -- ma -- a -- tta no?
+  na -- ni -- mo -- ka -- mo yu -- ru __ -- se __ -- ta __ -- ra __ na -- ga -- re -- ru ka mo shi -- re __ -- na __ -- i __ ke __ -- do __
+  ma -- mo -- ri -- ta -- i __ mo -- no ba -- ka -- ri da na __
 }
 
 \score {
