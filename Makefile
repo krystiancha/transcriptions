@@ -40,7 +40,7 @@ mp4: $(addsuffix .mp4, $(basename $(wildcard *.ly)))
 		-c:a mp3 \
 		-map 0:v:0 \
 		-map 1:a:0 \
-		-max_muxing_queue_size 1024 \
+		-max_muxing_queue_size 2048 \
 		$@
 
 clean:
