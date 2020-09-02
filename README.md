@@ -6,12 +6,10 @@ New transcriptions will be added regularly and more details will be added to exi
 
 ## Songs
 
-Take the "A" Train [solo] -- [sheet](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.pdf) [VIDEO](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.mp4)
-
-Shibayan -- タイニーリトル・アジアンタム (Tiny Little Adiantum) [solo] -- [sheet](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tiny-little-adiantum.pdf) [VIDEO](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tiny-little-adiantum.mp4)
-
-The Neighborhood Theme [melody] -- [sheet](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/the-neighborhood.pdf) [VIDEO](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/the-neighborhood.mp4)
-
-Andrius Klimka & Andrey Kulik -- World of Tanks Soundtrack: Prokhorovka [melody] -- [sheet](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/prokhorovka-soundtrack.pdf) [VIDEO](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/prokhorovka-soundtrack.mp4)
-
-nano.RIPE -- 月花 (Tsuki hana) [melody] -- [sheet](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tsuki-hana.pdf) [VIDEO](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tsuki-hana.mp4)
+| Title | Author | Sheet | Video | Notes |
+| --- | --- | --- | --- | --- |
+| Take the "A" Train |  | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.pdf) | [MP4](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.mp4) | solo, chords |
+| タイニーリトル・アジアンタム (Tiny Little Adiantum) | Shibayan | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tiny-little-adiantum.pdf) | [MP4](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tiny-little-adiantum.mp4) | solo, chords |
+| The Neighborhood Theme |  | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/the-neighborhood.pdf) | [MP4](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/the-neighborhood.mp4) | melody |
+| Prokhorovka (World of Tanks Soundtrack) | Andrius Klimka & Andrey Kulik | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/prokhorovka-soundtrack.pdf) | [MP4](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/prokhorovka-soundtrack.mp4) | melody |
+| 月花 (Tsuki hana) | nano.RIPE | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tsuki-hana.pdf) | [MP4](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tsuki-hana.mp4) | melody, lyrics |
