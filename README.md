@@ -10,7 +10,7 @@ Pull requests are welcome not only for fixing issues in existing sheets, but for
 
 | Title | Author | Animation | Sheet | Notes |
 | --- | --- | --- | --- | --- |
-| Take the "A" Train |  | [**MP4**](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.mp4) | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.pdf) | solo, chords |
+| Take the "A" Train |  | [**MP4**](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.mp4) | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/take-the-a-train.pdf) | solo, melody, chords |
 | タイニーリトル・アジアンタム (Tiny Little Adiantum) | Shibayan | [**MP4**](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tiny-little-adiantum.mp4) | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/tiny-little-adiantum.pdf) | solo, chords |
 | The Neighborhood Theme |  | [**MP4**](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/the-neighborhood.mp4) | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/the-neighborhood.pdf) | melody |
 | Prokhorovka (World of Tanks Soundtrack) | Andrius Klimka & Andrey Kulik | [**MP4**](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/prokhorovka-soundtrack.mp4) | [PDF](http://transcriptions-host.s3-website.eu-central-1.amazonaws.com/prokhorovka-soundtrack.pdf) | melody |

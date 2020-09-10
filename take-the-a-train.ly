@@ -19,21 +19,71 @@ chordNames = \chordmode {
   \set chordChanges = ##t
   \set minorChordModifier = \markup { "-" }
   
-  g1:7 |
+  c2 c/fis | c2 c/fis | c2 c/fis | c2 c/fis |
+  
   c1:6 | c:6 | d:7.11+ | d:7.11+ | d:m7 | g:7 | c:6 | d2:m7 g2:7 |
   c1:6 | c:6 | d:7.11+ | d:7.11+ | d:m7 | g:7 | c:6 | g2:m7 c2:7 | 
   f1:maj7 | f:maj7 | f:maj7 | f:maj7 | d:7 | d:7 | d:min7 | g2:7 g2:7.9- |
   c1:6 | c:6 | d:7.11+ | d:7.11+ | d:m7 | g:7 | c:6 | d2:m7 g2:7 |
-  c1:6
+  
+  c1:6 | c:6 | d:7.11+ | d:7.11+ | d:m7 | g:7 | c:6 | d2:m7 g2:7 |
+  c1:6 | c:6 | d:7.11+ | d:7.11+ | d:m7 | g:7 | c:6 | g2:m7 c2:7 | 
+  f1:maj7 | f:maj7 | f:maj7 | f:maj7 | d:7 | d:7 | d:min7 | g2:7 g2:7.9- |
+  c1:6 | c:6 | d:7.11+ | d:7.11+ | d:m7 | g:7 | c:6 | d2:m7 g2:7 |
+  
+  c1:6 |
 }
 
 melody = \relative a' {
   \global
-
-  r4. a8 c4 ~ c8 a |
+  
+  r1 |
+  r1 |
+  r1 |
+  r1 | \break
+  
+  g1 ~ |
+  g8 e'8 ~ e4 g,4 c4 |
+  e8 gis,8 ~ gis4 ~ gis2 ~ |
+  gis1 | \break
+  
+  a1 |
+  a8 ais8 b e8 g, ges f des' |
+  c8 e,8 ~ e4 ~ e2 ~ |
+  e1 | \break
+  
+  g1 ~ |
+  g8 e'8 ~ e4 g,4 c4 |
+  e8 gis,8 ~ gis4 ~ gis2 ~ |
+  gis1 | \break
+  
+  a1 |
+  a8 ais8 b e8 g, ges f des' |
+  c8 e,8 ~ e4 ~ e2 ~ |
+  e1 | \break
+  
+  a8 c8 ~ c4 ~ c2 |
+  e8 f,8 ~ f4 a8 c8 ~ c4 |
+  e8 a,8 ~ a4 ~ a2 ~ |
+  a1 | \break
+  
+  a8 c8 ~ c4 ~ c2 |
+  e8 fis,8 ~ fis 4 a8 c8 ~ c4 |
+  e8 a,8 ~ a4 ~ a2 ~ |
+  a2 aes2 | \break
+  
+  g1 ~ |
+  g8 e'8 ~ e4 g,4 c4 |
+  e8 gis,8 ~ gis4 ~ gis2 ~ |
+  gis1 | \break
+  
+  a1 |
+  a8 ais8 b e8 g, ges f des' |
+  c8 e,8 ~ e4 ~ e2 |
+  r4 r8 a8 c4 ~ c8 a8 | \break
   
   g8 g g4 a8 c ~ c4 |
-  r4. gis8 a c ~ c4 |
+  r4 r8 gis8 a c ~ c4 |
   e2 \glissando as, |
   r2 a4 c | \break
   
@@ -63,7 +113,7 @@ melody = \relative a' {
   \improvisationOn b,4^"?" b4^"?" b4^"?" b4^"?" \improvisationOff | \break
   
   \improvisationOn e4^"?" e4^"?" e4^"?" e4^"?" \improvisationOff |
-  r4. gis8 a c ~ c4 |
+  r4 r8 gis8 a c ~ c4 |
   e4 as,8 as ~ as4 r |
   r8 e' ~ e4 ~ e d8 e8 | \break
   
