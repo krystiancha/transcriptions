@@ -1,0 +1,17 @@
+image: archlinux
+packages:
+  - lilypond
+  - aws-cli
+sources:
+  - https://git.sr.ht/~krystianch/transcriptions
+tasks:
+  - build: |
+      cd transcriptions
+      make pdf
+  - upload: |
+      cd transcriptions
+      aws s3 sync . $s3uri --exclude "*" --include "*.pdf"
+environment:
+  s3uri: s3://krystianch-artifacts/transcriptions
+secrets:
+  - 8ebc04e8-5594-4abf-9d45-6ea0cc7183cf
