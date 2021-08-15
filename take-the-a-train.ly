@@ -4,7 +4,7 @@
   title = "Take the \"A\" Train"
   subtitle = "solo"
   composer = "?"
-  arranger = "github.com/krystiancha/transcriptions"
+  arranger = "https://sr.ht/~krystianch/transcriptions/"
   tagline = ##f
 }
 

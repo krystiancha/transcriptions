@@ -4,7 +4,7 @@
   title = "Prokhorovka"
   subtitle = "World of Tanks Soundtrack"
   composer = "Andrius Klimka & Andrey Kulik"
-  arranger = "github.com/krystiancha/transcriptions"
+  arranger = "https://sr.ht/~krystianch/transcriptions/"
   tagline = ##f
 }
 

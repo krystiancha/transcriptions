@@ -4,7 +4,7 @@
   title = "月花"
   subtitle = "Tsuki hana"
   composer = "nano.RIPE"
-  arranger = "github.com/krystiancha/transcriptions"
+  arranger = "https://sr.ht/~krystianch/transcriptions/"
   tagline = ##f
 }
 

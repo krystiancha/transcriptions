@@ -4,7 +4,7 @@
   title = "The Neighborhood"
   subtitle = "AirConsole Soundtrack"
   composer = ""
-  arranger = "github.com/krystiancha/transcriptions"
+  arranger = "https://sr.ht/~krystianch/transcriptions/"
   tagline = ##f
 }
 

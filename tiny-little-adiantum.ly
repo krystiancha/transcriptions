@@ -4,7 +4,7 @@
   title = "タイニーリトル・アジアンタム"
   subtitle = "Tiny Little Adiantum"
   composer = "Shibayan"
-  arranger = "github.com/krystiancha/transcriptions"
+  arranger = "https://sr.ht/~krystianch/transcriptions/"
   tagline = ##f
 }
 
